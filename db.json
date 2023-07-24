@@ -1,0 +1,28 @@
+{
+    "_default": {
+        "1": {
+            "first_name": "Javohir",
+            "last_name": "Jalilov"
+        },
+        "2": {
+            "first_name": "Diyorbek",
+            "last_name": "Abdusalomov"
+        },
+        "3": {
+            "first_name": "Javohir",
+            "last_name": "Jalilov"
+        },
+        "4": {
+            "first_name": "Diyorbek",
+            "last_name": "Abdusalomov"
+        },
+        "5": {
+            "first_name": "Javohir",
+            "last_name": "Jalilov"
+        },
+        "10": {
+            "first_name": "Javohir",
+            "last_name": "Jalilov"
+        }
+    }
+}
